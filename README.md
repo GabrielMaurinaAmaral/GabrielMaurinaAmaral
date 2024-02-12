@@ -1,7 +1,8 @@
 # Gabriel Maurina Amaral
 
 ## Sobre mim
-- 👨‍🎓 Atualmente estou aprendendo Engenharia da Computação
+- 👨‍🎓 Cursando Engenharia da Computação e estudando constantemente
+- 💡 Desenvolvendo mini projetos relacionados à Ciência e Engenharia de Dados
 
 ## Estatísticas do GitHub
 <div align="center">
