@@ -17,9 +17,8 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Power BI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
-  <img align="center" alt="Excel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+  <img align="center" alt="MySQL" height="30" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img align="center" alt="Apache Spark" height="30" width="40" src="https://spark.apache.org/images/spark-logo-trademark.png">
 </div>
 
