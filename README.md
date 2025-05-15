@@ -10,7 +10,6 @@
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Power BI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
   <img align="center" alt="MySQL" height="30" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
