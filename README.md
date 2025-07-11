@@ -2,7 +2,6 @@
 
 ## Sobre mim
 - 👨‍🎓 Cursando Engenharia da Computação e estudando constantemente
-- 💡 Desenvolvendo mini projetos relacionados à Ciência e Engenharia de Dados
 
 ## Habilidades
 <div style="display: inline_block"><br>
